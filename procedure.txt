@@ -1,0 +1,37 @@
+I need a tokenURI which should be hosted in the ipfs.json
+the json object should have the following
+  
+      {
+        "name": "",
+        "address": "",
+        "description": "",
+        "image": "",
+        "id": "",
+        "attributes":[
+            {
+                trait_type:"",
+                value: "",
+            },
+            {
+                trait_type:"",
+                value: "",
+            },
+            {
+                trait_type:"",
+                value: "",
+            },
+            {
+                trait_type:"",
+                value: "",
+            },
+            {
+                trait_type:"",
+                value: "",
+            },
+            {
+                trait_type:"",
+                value: "",
+            }
+        ]
+      }
+example:https://ipfs.io/ipfs/QmQVcpsjrA6cr1iJjZAodYwmPekYgbnXGo4DFubJiLc2EB/1.json
